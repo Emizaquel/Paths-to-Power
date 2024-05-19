@@ -1,0 +1,1 @@
+Composition differencing is the process of analysing the material differences between the start state of a change and the end state of the change. This not only accounts for the material makeup of the device, but also the structure within and any internal interactions that have been altered.

@@ -1,0 +1,1 @@
+The Chain of Alteration and Alteration Chaining are two sides of the same coin. They recognise that a larger change is made up of smaller changes, allowing you to spread the load of more complex changes.

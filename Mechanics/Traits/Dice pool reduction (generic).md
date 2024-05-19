@@ -1,0 +1,1 @@
+Remove dice meeting some condition. Most often, this takes the form of removing some number of the highest or lowest values.

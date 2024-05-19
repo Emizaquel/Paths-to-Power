@@ -1,0 +1,1 @@
+Fairly rare, but these effect do things like allowing you to change the order in which your other traits take effect or apply traits which would normally not be relevant.

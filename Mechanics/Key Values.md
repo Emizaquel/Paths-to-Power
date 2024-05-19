@@ -1,0 +1,1 @@
+Underlined words or phrases in the description of a character, item, trait, etc. that can be used as targeting conditions for traits or be targeted by meta effects to result in changes in normal challenge resolution. 

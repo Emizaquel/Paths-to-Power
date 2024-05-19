@@ -1,0 +1,1 @@
+Swap the dice from a d100 to some other dice.

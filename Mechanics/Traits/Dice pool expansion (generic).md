@@ -1,0 +1,1 @@
+Increase the number of dice to be rolled.
